@@ -1,3 +1,6 @@
-{
-    "status": "online"
-}
+{  
+    "status": {  
+        "user":       "online",   
+        "id":      1   
+    }  
+}  
