@@ -1,11 +1,6 @@
-{
-   "book": [
-	
-      {
+    {
          "id":"1",
          "V.": "1.2",
          "": "third",
-         "author": "Herbert Schildt"
-      }
-     ]
+         "author": "Herbert Schildt"   
 }
