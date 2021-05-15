@@ -33,26 +33,5 @@
     "title": "Saturn",
     "subtitle": "lorem ipsu",
     "image-url": "http://data.r00tl3ss.ml/Saturn.png"
-    },
-    {
-    "Planet": "Mars",
-    "id": 6,
-    "title": "Mars",
-    "subtitle": "lorem ipsu",
-    "image-url": "http://data.r00tl3ss.ml/Mars.png"
-    },
-    {
-    "Planet": "Earth",
-    "id": 7,
-    "title": "Earth",
-    "subtitle": "lorem ipsu",
-    "image-url": "http://data.r00tl3ss.ml/Earth.png"
-    },
-    {
-    "Planet": "Neptune",
-    "id": 8,
-    "title": "Neptune",
-    "subtitle": "lorem ipsu",
-    "image-url": "http://data.r00tl3ss.ml/Neptune.png"
     }
 ]
